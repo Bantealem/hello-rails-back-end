@@ -21,7 +21,7 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-# 📖 Btracker <a name="about-project"></a>
+# 📖 Hello React back end <a name="about-project"></a>
 
 
 This Project is a simple rails back end app api for display greeting message.
@@ -95,7 +95,7 @@ To run tests, run the following command:
 
 `Rspec spec`
 
-[Hello-React-Front-End] ('https://github.com/Bantealem/hello-react-front-end')
+[Hello-React-Front-End] (https://github.com/Bantealem/hello-react-front-end)
 
 
 
